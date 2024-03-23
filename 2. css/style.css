@@ -1,0 +1,19 @@
+form{
+    background-color: rgb(255, 153, 0);
+    padding: 10PX;
+border: 7PX;
+border-style: outset;
+   border-color: black; 
+    border-radius: 10PX 0 8px 0; 
+    color: blue;
+    margin: ;
+    margin-top: 10px;
+    margin-bottom: ;
+    margin-left: 20PX;
+    margin-right: 30PX;
+
+   }
+   h2{
+    background-color: blue;
+    color: white;
+   }
